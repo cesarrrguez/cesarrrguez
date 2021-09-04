@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey 👋, I am César Rodríguez
 
-<!--
-**cesarrrguez/cesarrrguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is something about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at [Metrohm Dropsens](https://www.dropsens.com/) as a Software Engineer
+- :muscle: I’m specialist in C# .NET
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about: Development 😄
+- ⚡ Check my repos specially [CSharpScripts](https://github.com/cesarrrguez/CSharpScripts) and [javascript-things](https://github.com/cesarrrguez/javascript-things)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Follow me on my social networks:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/cesarrrguez)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cesarrrguez/)
+[![Website Badge](https://img.shields.io/badge/Website-CR-brightgreen)](https://cesarrrguez.github.io)
